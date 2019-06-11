@@ -1,4 +1,4 @@
 Tutorial wprowadzenie do gita
 Tutorial - serwery gita
 Sprawdzam zmiany i dalej nic I JESZCZE
-Znowu zobaczymy i znowu
+Znowu zobaczymy i znowu zmiany
