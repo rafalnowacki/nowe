@@ -1,3 +1,3 @@
 Tutorial wprowadzenie do gita
 Tutorial - serwery gita
-Sprawdzam zminy
+Sprawdzam zmiany i dalej nic
